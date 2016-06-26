@@ -6,4 +6,4 @@ Contains various configuration files for programs and whatnot.
 
 ##### snippets.cson
 
-  Add this file to `/home/(u)/.atom/` or whatever your atom settings directory is to use my atom snippets
+  Add this file to `~/.atom/` or whatever your atom settings directory is to use my atom snippets
