@@ -1,6 +1,6 @@
 # Configurations
 
-Contains various Configurations files for programs and whatnot for efficiency purposes
+Contains various configuration files for programs and whatnot.
 
 ### Atom Configurations
 
