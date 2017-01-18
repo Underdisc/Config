@@ -2,6 +2,12 @@
 
 Contains various configuration files for programs and whatnot.
 
+### Build Configurations
+
+### makefile
+
+Simple makefile for use with make utility. Contains custom colours for colourizing the make output.
+
 ### Atom Configurations
 
 ##### snippets.cson
