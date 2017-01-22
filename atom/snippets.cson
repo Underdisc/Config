@@ -24,7 +24,7 @@
 \\\\par E-mail: ${3:connortdeakin\\\\@gmail.com}
 \\\\par Assignment: $4
 \\\\par Course: ${5:CS 200}
-\\\\par Term: ${6:Fall 2016}
+\\\\par Term: ${6:Spring 2017}
 \\\\date ${7:DD}/${8:MM}/${9:YYYY}
 \\\\brief
   $10
@@ -45,7 +45,7 @@
 \\\\par E-mail: ${3:connortdeakin\\\\@gmail.com}
 \\\\par Assignment: $4
 \\\\par Course: ${5:CS 250}
-\\\\par Term: ${6:Fall 2016}
+\\\\par Term: ${6:Spring 2017}
 \\\\date ${7:DD}/${8:MM}/${9:YYYY}
 \\\\brief
   $10
