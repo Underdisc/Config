@@ -18,6 +18,7 @@
 
 #COMMMIT COMMANDS
 	cm = commit -m
+	vommit = commit -m ":O~==~ This is broken"
 
 #PULL COMMANDS
 	plo = pull origin
